@@ -1,0 +1,113 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C186.fs" />
+    <Compile Include="C185.fs" />
+    <Compile Include="C180.fs" />
+    <Compile Include="C177.fs" />
+    <Compile Include="C176.fs" />
+    <Compile Include="C175.fs" />
+    <Compile Include="C173.fs" />
+    <Compile Include="D171.fs" />
+    <Compile Include="C171.fs" />
+    <Compile Include="C170.fs" />
+    <Compile Include="D169.fs" />
+    <Compile Include="C169.fs" />
+    <Compile Include="D168.fs" />
+    <Compile Include="C168.fs" />
+    <Compile Include="D167.fs" />
+    <Compile Include="C167.fs" />
+    <Compile Include="D166.fs" />
+    <Compile Include="D165.fs" />
+    <Compile Include="D164.fs" />
+    <Compile Include="E163.fs" />
+    <Compile Include="D163.fs" />
+    <Compile Include="C163.fs" />
+    <Compile Include="D162.fs" />
+    <Compile Include="C162.fs" />
+    <Compile Include="D161.fs" />
+    <Compile Include="C161.fs" />
+    <Compile Include="D160.fs" />
+    <Compile Include="C160.fs" />
+    <Compile Include="D159.fs" />
+    <Compile Include="C159.fs" />
+    <Compile Include="D158.fs" />
+    <Compile Include="C158.fs" />
+    <Compile Include="D157.fs" />
+    <Compile Include="C157.fs" />
+    <Compile Include="D156.fs" />
+    <Compile Include="C156.fs" />
+    <Compile Include="D155.fs" />
+    <Compile Include="C155.fs" />
+    <Compile Include="D154.fs" />
+    <Compile Include="C154.fs" />
+    <Compile Include="D153.fs" />
+    <Compile Include="C153.fs" />
+    <Compile Include="D152.fs" />
+    <Compile Include="C152.fs" />
+    <Compile Include="C151.fs" />
+    <Compile Include="C147.fs" />
+    <Compile Include="D146.fs" />
+    <Compile Include="C146.fs" />
+    <Compile Include="C145.fs" />
+    <Compile Include="C144.fs" />
+    <Compile Include="D143.fs" />
+    <Compile Include="C143.fs" />
+    <Compile Include="D142.fs" />
+    <Compile Include="C142.fs" />
+    <Compile Include="D141.fs" />
+    <Compile Include="C141.fs" />
+    <Compile Include="C140.fs" />
+    <Compile Include="D138.fs" />
+    <Compile Include="C138.fs" />
+    <Compile Include="C137.fs" />
+    <Compile Include="D137.fs" />
+    <Compile Include="C136.fs" />
+    <Compile Include="C135.fs" />
+    <Compile Include="D134.fs" />
+    <Compile Include="C134.fs" />
+    <Compile Include="C133.fs" />
+    <Compile Include="D133.fs" />
+    <Compile Include="D132.fs" />
+    <Compile Include="C132.fs" />
+    <Compile Include="C131.fs" />
+    <Compile Include="D131.fs" />
+    <Compile Include="D130.fs" />
+    <Compile Include="C130.fs" />
+    <Compile Include="C126.fs" />
+    <Compile Include="C125.fs" />
+    <Compile Include="C124.fs" />
+    <Compile Include="C123.fs" />
+    <Compile Include="C122.fs" />
+    <Compile Include="C121.fs" />
+    <Compile Include="C118.fs" />
+    <Compile Include="C117.fs" />
+    <Compile Include="C116.fs" />
+    <Compile Include="C115.fs" />
+    <Compile Include="C114.fs" />
+    <Compile Include="D113.fs" />
+    <Compile Include="C113.fs" />
+    <Compile Include="C112.fs" />
+    <Compile Include="C111.fs" />
+    <Compile Include="C110.fs" />
+    <Compile Include="C109.fs" />
+    <Compile Include="C108.fs" />
+    <Compile Include="C107.fs" />
+    <Compile Include="C106.fs" />
+    <Compile Include="C105.fs" />
+    <Compile Include="C104.fs" />
+    <Compile Include="C103.fs" />
+    <Compile Include="C102.fs" />
+    <Compile Include="C101.fs" />
+    <Compile Include="C100.fs" />
+    <Compile Include="C099.fs" />
+    <Compile Include="C098.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
